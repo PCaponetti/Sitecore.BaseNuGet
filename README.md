@@ -9,14 +9,14 @@ Features include
 - automatic ReadMe open after install-package
 
 Steps to make your first module
-1. Change file name of BaseNuGet.sln to desired module name and open
-2. Change binary name to desired binary name
-3. Add serialized item files to serialization folder
-4. Add code to App_Code folder
-5. Add GAC references to project so that it will build
-6. Add any other nuget packages AND add those packages as references in the .nuspec file
-7. Update the .nuspec file with project specific information (license, etc)
-8. Build
+- Change file name of BaseNuGet.sln to desired module name and open
+- Change binary name to desired binary name
+- Add serialized item files to serialization folder
+- Add code to App_Code folder
+- Add GAC references to project so that it will build
+- Add any other nuget packages AND add those packages as references in the .nuspec file
+- Update the .nuspec file with project specific information (license, etc)
+- Build
 
 On the other end you will have a shiny new nupkg file show up next to the .nuspec file.
 
