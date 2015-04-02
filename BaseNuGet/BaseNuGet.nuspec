@@ -6,13 +6,13 @@
     <title>Module</title>
     <authors>ENTER AUTHOR HERE</authors>
     <owners>ENTER AUTHOR HERE, Verndale</owners>
-    <licenseUrl>http://verndale.com</licenseUrl>
-    <projectUrl>http://verndale.com</projectUrl>
+    <licenseUrl>PUT LICENSE URL HERE</licenseUrl>
+    <projectUrl>PUT PROJECT URL HERE</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>FILL IN DESCRIPTION HERE</description>
-    <iconUrl>http://www.verndale.com/images/v-home.png</iconUrl>
+    <iconUrl>PUT LINK TO .PNG HERE</iconUrl>
     <releaseNotes>SUMMARY OF CHANGES MADE IN LATEST UPDATE</releaseNotes>
     <copyright>Copyright 2015</copyright>
-    <tags>Sitecore Verndale</tags>
+    <tags>Sitecore BaseNuGet</tags>
   </metadata>
 </package>

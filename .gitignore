@@ -1,0 +1,5 @@
+*.suo
+BaseNuGet/bin/Debug/*
+BaseNuGet/bin/Release/*
+BaseNuGet/obj/Debug/*
+BaseNuGet/obj/Release/*
