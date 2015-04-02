@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MODULE_NAME</id>
+    <version>$date_version$</version>
+    <title>Module</title>
+    <authors>ENTER AUTHOR HERE</authors>
+    <owners>ENTER AUTHOR HERE, Verndale</owners>
+    <licenseUrl>http://verndale.com</licenseUrl>
+    <projectUrl>http://verndale.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>FILL IN DESCRIPTION HERE</description>
+    <iconUrl>http://www.verndale.com/images/v-home.png</iconUrl>
+    <releaseNotes>SUMMARY OF CHANGES MADE IN LATEST UPDATE</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Sitecore Verndale</tags>
+  </metadata>
+</package>
